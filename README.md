@@ -20,7 +20,7 @@ The project is a working full-stack application, built using the MERN stack: Nod
 <br/>
 This application makes requests from the Backend built using [Node](https://nodejs.org/en/), a javascript runtime env.
 <br/>
-The project is hosted on [Heroku](https://heroku.com/).
+The project is hosted on [Heroku](https://git.heroku.com/pokedeck-creator-api.git/).
 
 ## Built With
 
