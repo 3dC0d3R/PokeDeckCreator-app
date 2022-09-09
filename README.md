@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+<!-- PROJECT LOGO -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center">-MERN Stack- </h2>
+<h2 align="center">Poke Deck Creator App</h2>
 
-## Available Scripts
+<!-- TABLE OF CONTENTS -->
 
-In the project directory, you can run:
+## Table of Contents
 
-### `npm start`
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Design](#design)
+- [Future Updates](#Future-updates)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- ABOUT THE PROJECT -->
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## About The Project
 
-### `npm test`
+The project is a working full-stack application, built using the MERN stack: Node.js, MongoDB/Mongoose, Express and React. 
+<br/>
+This application makes requests from the Backend built using [Node](https://nodejs.org/en/), a javascript runtime env.
+<br/>
+The project is hosted on [Heroku](https://heroku.com/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Built With
 
-### `npm run build`
+Following technologies are used in the project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- HTML 5
+- CSS
+- Material UI
+- React Js
+- Node Js
+- Express
+- Heroku
+- Bootstrap npm
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<!-- Design -->
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Design
+crud
+<p align="center">This app allows the user to create a Pokemon Playing Cards Deck (PokeDeck) from the user Card Library. The PokeDeck is created by 1. Adding acquired Pokemon cards to the user Card Library and 2. Moving the Cards to the PokeDeck. The user can then edit the card, by updating stats, changing pokemon names, and deleting from either PokeDeck or the Card Library. </p>
 
-### `npm run eject`
+<!-- Future Updates -->
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Future Updates
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+* [pokedex-promise-v2 API](https://github.com/PokeAPI/pokedex-promise-v2) -An easy way to use [Pokéapi](https://pokeapi.co/) v2 with promises *(or callbacks as of v3)* in node.js
+* Evolve the PokeDeck App into an interactive game, where players and battle using real statistics from the game. 
+* Add Pokemon stats
